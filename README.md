@@ -2,8 +2,9 @@
 <div align="center">
   <a href="https://github.com/marianaph6">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marianaph6&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianaph6&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marianaph6&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianaph6&layout=compact&langs_count=7&theme=default"/>
+  https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Mariana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -29,7 +30,5 @@
   <a href="https://www.instagram.com/mariana_ph6/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:mariana1996.mph@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
