@@ -1,4 +1,4 @@
-## Soy Mariana Palacios Hinestroza, Estudiante de Ingeniería de Sistemas y Desarrolladora de Software!
+## Soy Mariana Palacios Hinestroza, Ingeniera de Sistemas y Desarrolladora de Software!
 <div align="center">
   <a href="https://github.com/marianaph6">
   
